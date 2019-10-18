@@ -68,9 +68,9 @@ Resources:
 - express: https://expressjs.com/zh-cn/
 - mysql: https://www.mysql.com/cn/
 
-You could find some great tutorials from bilibili.
+You could find some great tutorials from bilibili for learning front-end developing.
+
 Renter is a second-hand e-commerce platform we build for another CIDE group. The front-end part is done and the back-end part needs improvement. Current code is in github private repository (you will be invited later).
-_____________
 
 
 ### PolarisHub Task
