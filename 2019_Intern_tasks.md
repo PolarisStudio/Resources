@@ -57,6 +57,7 @@ Every project needs to submit an English weekly report summarizing all works bei
 1. Reimplement the backend programs.
 2. Free of SQL injection.
 3. Improve throughputs.
+4. Encryption for some important information.
 
 Resources:
 _____________
@@ -78,8 +79,15 @@ Resources:
 
 1. Design the frontend of iFound (Mobile version).
 2. Developers at least complete a usable version.
+3. (option)Add the account support for wechat campus card.
 
 Resources:
+1. frontend: Vue-cli and Element
+Vue-cli: https://cli.vuejs.org/zh/guide/browser-compatibility.html#browserslist
+Element: https://element.eleme.cn/#/zh-CN
+2. Backend
+Recomended to use go: https://gin-gonic.com/
+Other backend framework is also available.
 ____________
 
 ### Other Resources
