@@ -60,6 +60,16 @@ Every project needs to submit an English weekly report summarizing all works bei
 4. Encryption for some important information.
 
 Resources:
+1. Front-end: react+umijs+dvajs
+- react: https://zh-hans.reactjs.org/
+- umijs: https://umijs.org/zh/
+- dvajs: https://dvajs.com/
+2. Back-end: node express+ mysql
+- express: https://expressjs.com/zh-cn/
+- mysql: https://www.mysql.com/cn/
+
+You could find some great tutorials from bilibili.
+Renter is a second-hand e-commerce platform we build for another CIDE group. The front-end part is done and the back-end part needs improvement. Current code is in github private repository (you will be invited later).
 _____________
 
 
