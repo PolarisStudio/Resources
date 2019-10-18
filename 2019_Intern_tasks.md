@@ -82,9 +82,10 @@ Resources:
 3. (option)Add the account support for wechat campus card.
 
 Resources:
-1. frontend: Vue-cli and Element
+1. Frontend: Vue-cli and Element
 - Vue-cli: https://cli.vuejs.org/zh/guide/browser-compatibility.html#browserslist
 - Element: https://element.eleme.cn/#/zh-CN
+- Other frontend frameworks are also available.
 2. Backend
 - Recomended to use go: https://gin-gonic.com/
 - Other backend frameworks are also available.
