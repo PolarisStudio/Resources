@@ -40,7 +40,7 @@ Designer:
 2. PolarisHub
    1. 1 Frontend Designer: Peng Chuxian
    2. 1 Frontend Developer: _______
-   3. 1 Flask Backend Developer: _________
+   3. 1 Flask Backend Developer: Cui Yuncong + _________
    4. 2 Go Backend Developers: ______ + _______
    5. 1 Potential Android Developer (if no, move to iFound): Yang Haowen
 3. iFound
