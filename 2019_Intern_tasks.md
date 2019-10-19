@@ -45,7 +45,7 @@ Designer:
    5. 1 Potential Android Developer (if no, move to iFound): Yang Haowen
 3. iFound
    1. 1 Frontend Designer: Peng Chuxian
-   2. 1 (React) Frontend Developers: Yang Haowen+ ________
+   2. 1 (React) Frontend Developers: Yang Haowen+ Zhu Yaochen
    3. 2 Go Backend Developers: _______ + _________
 
 Every project should have a timeline soon.
