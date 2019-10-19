@@ -46,7 +46,7 @@ Designer:
 3. iFound
    1. 1 Frontend Designer: Peng Chuxian
    2. 1 (React) Frontend Developers: Yang Haowen+ Zhu Yaochen
-   3. 2 Go Backend Developers: _______ + _________
+   3. 2 Go Backend Developers: Xiao Huiyu + Yi Kerui
 
 Every project should have a timeline soon.
 
