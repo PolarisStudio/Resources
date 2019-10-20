@@ -41,7 +41,7 @@ Designer:
    1. 1 Frontend Designer: Peng Chuxian
    2. 1 Frontend Developer: Chen Haolin
    3. 1 Flask Backend Developer: Cui Yuncong + Hu Haichuan + Li Ke
-   4. 2 Go Backend Developers: ______ + _______
+   4. 2 Go Backend Developers: Lin Yukun + _______
    5. 1 Potential Android Developer (if no, move to iFound): Yang Haowen
 3. iFound
    1. 1 Frontend Designer: Peng Chuxian
