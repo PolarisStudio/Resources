@@ -110,6 +110,7 @@ ____________
 2. Ask developers to clarify when facing confusing words.
 3. Write a weekly summary for your monitoring projects (deadline: 10pm every Sunday).
 4. Investigate the school market, submit a feasible report of a new project for Polaris Studio. Currently an optional plan is a paid questionnaire system (You can ask two technical managers for more details), you can also design new projects yourself (recommended).
+
 Workload Allocation:
 
 1. Li Ke: Monitor the participating project.
